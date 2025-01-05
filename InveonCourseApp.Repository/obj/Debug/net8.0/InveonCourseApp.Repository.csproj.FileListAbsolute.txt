@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Repository.deps.json
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Repository.runtimeconfig.json
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Repository.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Repository.pdb
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Core.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\bin\Debug\net8.0\InveonCourseApp.Core.pdb
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.AssemblyInfo.cs
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCo.59560D48.Up2Date
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\refint\InveonCourseApp.Repository.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.pdb
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\InveonCourseApp.Repository.genruntimeconfig.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Repository\obj\Debug\net8.0\ref\InveonCourseApp.Repository.dll

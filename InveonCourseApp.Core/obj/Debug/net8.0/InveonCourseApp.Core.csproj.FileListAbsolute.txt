@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\bin\Debug\net8.0\InveonCourseApp.Core.deps.json
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\bin\Debug\net8.0\InveonCourseApp.Core.runtimeconfig.json
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\bin\Debug\net8.0\InveonCourseApp.Core.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\bin\Debug\net8.0\InveonCourseApp.Core.pdb
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.AssemblyInfo.cs
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\refint\InveonCourseApp.Core.dll
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.pdb
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\InveonCourseApp.Core.genruntimeconfig.cache
+C:\Users\Hp\source\repos\InveonCourseApp.API\InveonCourseApp.Core\obj\Debug\net8.0\ref\InveonCourseApp.Core.dll

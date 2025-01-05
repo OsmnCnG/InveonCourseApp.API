@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VgU6RpnFPl8Vja4kE9fcpejzZ0c8BG1qXk6Ls+dTdBA=",
+  "Source": "InveonCourseApp.API",
+  "BasePath": "_content/InveonCourseApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
