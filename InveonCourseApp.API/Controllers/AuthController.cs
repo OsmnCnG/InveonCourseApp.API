@@ -14,9 +14,8 @@ using System.Xml.Linq;
 
 namespace InveonCourseApp.API.Controllers
 {
-
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class AuthController(UserManager<AppUser> userManager ,RoleManager<AppRole> roleManager, SignInManager<AppUser> signInManager, IConfiguration configuration) : Controller
     {
 
